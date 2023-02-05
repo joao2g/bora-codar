@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Site desenvolvido para conclusão do desafio da boraCodar, da Rocketseat. Um simples player de música.
 
-- [Acesse o projeto finalizado, online](https://joao2g.github.io/bora-codar/)
+- [Acesse o projeto finalizado, online](https://joao2g.github.io/boracodar-desafio-01/)
 
 <br>
 
